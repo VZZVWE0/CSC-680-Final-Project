@@ -1,4 +1,7 @@
 # CSC-680-Final-Project
+Project: Mobile Gaming Application
+Type: Individual
+
 # About
 A simple mobile iOS blackjack card game created using Swift/XCode. The app has a basic homescreen where it provides new users with instructions and rules on how to play. If you already know how to play blacjack, then simply hit start. The gameplay screens features accurate gameplay with one dealer card hidden faced down and one faced up to show the user. The user/player hands are visisble and by using the "hit" button, you can draw another card or stay with you current hand by using "stand". Reset will start a new game.
 
